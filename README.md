@@ -25,7 +25,7 @@ var ulrs = [
 ];
 ```  
 
-After change, just save and re-run:
+After change, just save and re-run:  
 ```bash
 npm start
 ```  
