@@ -1,0 +1,23 @@
+{
+  "name": "download-img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieldarezzo/download-img-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieldarezzo/download-img-node/issues"
+  },
+  "homepage": "https://github.com/gabrieldarezzo/download-img-node#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
