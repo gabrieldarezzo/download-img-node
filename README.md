@@ -17,19 +17,17 @@ Run npm to get all dependencies:
 npm install
 ```  
 
-Now just run this command:  
-```bash
-npm start
-```  
-
-You can change urls in `index.js` Ex:  
+You can change urls in `index.js` to Urls you want, Ex:  
 ```js
 var ulrs = [
     'https://www.google.com/images/srpr/logo3w.png',
     'https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png',
 ];
 ```  
+
 After change, just save and re-run:
 ```bash
 npm start
 ```  
+
+and all images you want, gone be in `/imgs`
